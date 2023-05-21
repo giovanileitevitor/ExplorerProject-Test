@@ -2,7 +2,7 @@
 
 Hi Dev / Sir
 
-O **Github Explorer** é um aplicativo simples para listar os repositórios do GitHub com mais estrelas e com código Kotlin.
+O **Explorer** é um aplicativo simples para listar os repositórios do GitHub com mais estrelas e com código Kotlin.
 
 ## Detalhes sobre o projeto:
 
@@ -14,7 +14,10 @@ O **Github Explorer** é um aplicativo simples para listar os repositórios do G
 
 - Utiliza Kotlin Flow para chamada assíncrona
 
-- Testes unitários das camadas de data (PagingSource, Repository), domain (UseCase) e presentation (ViewModel)
+- Testes instrumentados para a análise de comportamento (QA)
+
+- Testes unitários das camadas de data (PagingSource, Repository), domain (UseCase) e ui (ViewModel)
+
 
 ## Tela 1 - Lista de Repositorios:
 
