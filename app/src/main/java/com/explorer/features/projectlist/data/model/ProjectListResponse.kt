@@ -5,5 +5,6 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class ProjectListResponse(
-    @SerialName("items") val projects: List<ProjectItemResponse>
+    @SerialName("items")
+    val projects: List<ProjectItemResponse>
 )

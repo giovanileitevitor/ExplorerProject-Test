@@ -7,5 +7,7 @@ import retrofit2.http.Query
 interface ProjectsListService {
 
     @GET("search/repositories?q=language:kotlin&sort=stars")
-    suspend fun requestProjectList(@Query("page") pageNumber: Int): ProjectListResponse
+    suspend fun requestProjectList(
+        @Query("page") pageNumber: Int
+    ): ProjectListResponse
 }
