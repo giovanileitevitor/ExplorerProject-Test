@@ -1,4 +1,4 @@
-# Github Repository Explorer / User Explorer
+# Explorer Project (Repositories && Users)
 
 Hi Dev / Sir
 
