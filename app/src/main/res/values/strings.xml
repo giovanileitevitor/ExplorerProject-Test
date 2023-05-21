@@ -1,0 +1,18 @@
+<resources>
+    <!-- Commons -->
+    <string name="app_name">GithubExplorer</string>
+    <string name="commons_try_again">Tentar novamente</string>
+
+    <!-- Adaptable strings   -->
+    <string name="ctd_icon">Repository Icon</string>
+    <string name="ctd_stars">Repository Stars Icon</string>
+    <string name="ctd_forks">Repository Fork Icon</string>
+
+    <!-- Projects List -->
+    <string name="project_list_title">Explorer: Repositories </string>
+    <string name="project_list_error_message">Ops, não foi possível carregar os repositórios</string>
+
+    <!-- Users list    -->
+    <string name="userList">Explorer: Users</string>
+
+</resources>
